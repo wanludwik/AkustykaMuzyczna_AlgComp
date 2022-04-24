@@ -1,5 +1,5 @@
 # AkustykaMuzyczna_AlgComp
-A script created by my friend used during one of the classes at GUT. Topic of the lab is algorithmic composition.
+A script created by my friend, [akkurowski](https://github.com/akkurowski), used during one of the classes at GUT. Topic of the lab is algorithmic composition.
 
 There are three exercises with increasing level of complexity.
 First one is based entirely on random number generation. 
